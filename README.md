@@ -2,7 +2,7 @@
 
 ## 📘 API Documentation
 ---
-[High Level Design Doc - Excalidraw 🔗](https://excalidraw.com/#json=g_UtR-BAwH0sU5rPxJwic,PNK50Mp647XEkp2U_oB9Gg)
+[High Level Design Doc - Excalidraw 🔗](https://excalidraw.com/#json=h1u4n5PznFNfu2EGknhMj,XOcVNeLJB42OPWeUjDLZRA)
 ---
 
 <div align="center">
@@ -15,7 +15,7 @@
 </div>
 ---
 
-### Detailed doc [here.](https://excalidraw.com/#json=4oSncFxkrUR9hyMLwiNLj,u7DB0edttMNYf7k84ZVPeQ)
+# Detailed doc, READ [here.](https://excalidraw.com/#json=h1u4n5PznFNfu2EGknhMj,XOcVNeLJB42OPWeUjDLZRA)
 
 ### `GET /AAPL`  
 **Description**: Get real-time price info for a stock.
