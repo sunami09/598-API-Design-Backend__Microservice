@@ -1,7 +1,13 @@
-# 598-API-Design-Backend__Microservice
-
+# Tradient Architecture
 
 ## 📘 API Documentation
+---
+[High Level Design Doc - Excalidraw 🔗](https://excalidraw.com/#json=g_UtR-BAwH0sU5rPxJwic,PNK50Mp647XEkp2U_oB9Gg)
+---
+
+<div align="center">
+  <img src = "https://github.com/user-attachments/assets/75652c4a-fde5-4d2d-a77c-4366a633c7e7" />
+</div>
 
 ---
 
@@ -40,3 +46,5 @@
   }
 ]
 ```
+
+
