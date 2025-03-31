@@ -8,8 +8,14 @@
 <div align="center">
   <img src = "https://github.com/user-attachments/assets/75652c4a-fde5-4d2d-a77c-4366a633c7e7" />
 </div>
-
 ---
+---
+<div align="center">
+  <img src = "https://github.com/user-attachments/assets/a01c8219-e111-4491-ae8f-78df20898357" />
+</div>
+---
+
+### Detailed doc [here.](https://excalidraw.com/#json=4oSncFxkrUR9hyMLwiNLj,u7DB0edttMNYf7k84ZVPeQ)
 
 ### `GET /AAPL`  
 **Description**: Get real-time price info for a stock.
