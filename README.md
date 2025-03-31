@@ -11,7 +11,7 @@
 ---
 ---
 <div align="center">
-  <img src = "https://github.com/user-attachments/assets/a01c8219-e111-4491-ae8f-78df20898357" />
+  <img src = "https://github.com/user-attachments/assets/c071fb00-6675-4660-b26b-eb9695221955" />
 </div>
 ---
 
